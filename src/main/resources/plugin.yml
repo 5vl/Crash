@@ -1,0 +1,8 @@
+name: Crash
+version: '${project.version}'
+main: crash.crash.Main
+api-version: 1.17
+authors: [ 5vl ]
+description: CRASH PEOPLE
+commands:
+  crash:
